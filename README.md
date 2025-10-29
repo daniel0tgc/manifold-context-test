@@ -2,7 +2,7 @@
 
 This project implements a minimal, testable cognitive dynamics model inspired by the idea that human thought and memory live on a latent manifold, and that recent high‑salience experiences distort this manifold by creating temporary attractor basins that bias later recall and mind‑wandering.
 
-It is **not** a generic ML benchmark project; it is a deliberately interpretable toy system for probing hypotheses about:
+It is a deliberately interpretable toy system for probing hypotheses about:
 
 - **episodic memory as templates** in latent space
 - **context as a decaying trace** that biases retrieval
