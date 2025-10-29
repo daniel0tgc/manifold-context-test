@@ -115,8 +115,7 @@ The simplicity is intentional: it is a _generative, manipulable testbed_ for cog
 
 ## License
 
-TBD.
-
+MIT
 ---
 
 ## Contact / Intent
