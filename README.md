@@ -9,7 +9,7 @@ It is a deliberately interpretable toy system for probing hypotheses about:
 - **salience/arousal as a gain** on memory consolidation or access
 - **cue‑driven attractor dynamics** producing daydream‑like transitions
 
-The immediate motivating example: after a conversation with someone (high salience), later exposure to a weakly related cue disproportionately triggers recall/daydreams of specific episodes — because the recent event reshaped the energy landscape. Nuerons activated during conversation remain in the context of a person for a short period, triggering future cues/thoughts.
+The immediate motivating example: after a recent event such as studying (high salience), later exposure to a weakly related cue disproportionately triggers recall/daydreams of specific episodes — because the recent event reshaped the energy landscape. Nuerons activated during event remain in the context of a person for a short period, triggering future cues/thoughts.
 
 The system approximates this via:
 
